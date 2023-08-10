@@ -1,0 +1,24 @@
+/Users/enginbolat/Desktop/development/lessons/asp-net-core-ogreniyorum/NLayerProject/NLayer.Core/bin/Debug/net6.0/NLayer.Core.deps.json
+/Users/enginbolat/Desktop/development/lessons/asp-net-core-ogreniyorum/NLayerProject/NLayer.core/bin/Debug/net6.0/NLayer.Core.dll
+/Users/enginbolat/Desktop/development/lessons/asp-net-core-ogreniyorum/NLayerProject/NLayer.core/bin/Debug/net6.0/NLayer.Core.pdb
+/Users/enginbolat/Desktop/development/lessons/asp-net-core-ogreniyorum/NLayerProject/NLayer.core/obj/Debug/net6.0/NLayer.Core.csproj.AssemblyReference.cache
+/Users/enginbolat/Desktop/development/lessons/asp-net-core-ogreniyorum/NLayerProject/NLayer.core/obj/Debug/net6.0/NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enginbolat/Desktop/development/lessons/asp-net-core-ogreniyorum/NLayerProject/NLayer.core/obj/Debug/net6.0/NLayer.Core.AssemblyInfoInputs.cache
+/Users/enginbolat/Desktop/development/lessons/asp-net-core-ogreniyorum/NLayerProject/NLayer.core/obj/Debug/net6.0/NLayer.Core.AssemblyInfo.cs
+/Users/enginbolat/Desktop/development/lessons/asp-net-core-ogreniyorum/NLayerProject/NLayer.core/obj/Debug/net6.0/NLayer.Core.csproj.CoreCompileInputs.cache
+/Users/enginbolat/Desktop/development/lessons/asp-net-core-ogreniyorum/NLayerProject/NLayer.core/obj/Debug/net6.0/NLayer.Core.dll
+/Users/enginbolat/Desktop/development/lessons/asp-net-core-ogreniyorum/NLayerProject/NLayer.core/obj/Debug/net6.0/refint/NLayer.Core.dll
+/Users/enginbolat/Desktop/development/lessons/asp-net-core-ogreniyorum/NLayerProject/NLayer.core/obj/Debug/net6.0/NLayer.Core.pdb
+/Users/enginbolat/Desktop/development/lessons/asp-net-core-ogreniyorum/NLayerProject/NLayer.Core/obj/Debug/net6.0/ref/NLayer.Core.dll
+C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Core\bin\Debug\net6.0\NLayer.Core.deps.json
+C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Core\bin\Debug\net6.0\NLayer.Core.dll
+C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Core\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.AssemblyReference.cache
+C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Core\obj\Debug\net6.0\NLayer.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfoInputs.cache
+C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Core\obj\Debug\net6.0\NLayer.Core.AssemblyInfo.cs
+C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Core\obj\Debug\net6.0\NLayer.Core.csproj.CoreCompileInputs.cache
+C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Core\obj\Debug\net6.0\NLayer.Core.dll
+C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Core\obj\Debug\net6.0\refint\NLayer.Core.dll
+C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Core\obj\Debug\net6.0\NLayer.Core.pdb
+C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Core\obj\Debug\net6.0\ref\NLayer.Core.dll
