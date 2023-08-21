@@ -15,17 +15,17 @@
 /Users/enginbolat/Desktop/development/lessons/asp-net-core-ogreniyorum/NLayerProject/NLayer.Respository/obj/Debug/net6.0/ref/NLayer.Respository.dll
 /Users/enginbolat/Desktop/development/lessons/asp-net-core-ogreniyorum/NLayerProject/NLayer.Respository/bin/Debug/net6.0/NLayer.Respository.runtimeconfig.json
 /Users/enginbolat/Desktop/development/lessons/asp-net-core-ogreniyorum/NLayerProject/NLayer.Respository/obj/Debug/net6.0/NLayer.Respository.genruntimeconfig.cache
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Respository\obj\Debug\net6.0\NLayer.Respository.csproj.AssemblyReference.cache
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Respository\obj\Debug\net6.0\NLayer.Respository.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Respository\obj\Debug\net6.0\NLayer.Respository.AssemblyInfoInputs.cache
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Respository\obj\Debug\net6.0\NLayer.Respository.AssemblyInfo.cs
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Respository\obj\Debug\net6.0\NLayer.Respository.csproj.CoreCompileInputs.cache
 C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Respository\bin\Debug\net6.0\NLayer.Respository.deps.json
 C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Respository\bin\Debug\net6.0\NLayer.Respository.runtimeconfig.json
 C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Respository\bin\Debug\net6.0\NLayer.Respository.dll
 C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Respository\bin\Debug\net6.0\NLayer.Respository.pdb
 C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Respository\bin\Debug\net6.0\NLayer.Core.dll
 C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Respository\bin\Debug\net6.0\NLayer.Core.pdb
+C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Respository\obj\Debug\net6.0\NLayer.Respository.csproj.AssemblyReference.cache
+C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Respository\obj\Debug\net6.0\NLayer.Respository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Respository\obj\Debug\net6.0\NLayer.Respository.AssemblyInfoInputs.cache
+C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Respository\obj\Debug\net6.0\NLayer.Respository.AssemblyInfo.cs
+C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Respository\obj\Debug\net6.0\NLayer.Respository.csproj.CoreCompileInputs.cache
 C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Respository\obj\Debug\net6.0\NLayer.Respository.csproj.CopyComplete
 C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Respository\obj\Debug\net6.0\NLayer.Respository.dll
 C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Respository\obj\Debug\net6.0\refint\NLayer.Respository.dll

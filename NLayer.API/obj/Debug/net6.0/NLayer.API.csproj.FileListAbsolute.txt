@@ -96,6 +96,8 @@ C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.API\bin\Debug\net6.0\NLayer.AP
 C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.API\bin\Debug\net6.0\NLayer.API.runtimeconfig.json
 C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.API\bin\Debug\net6.0\NLayer.API.dll
 C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.API\bin\Debug\net6.0\NLayer.API.pdb
+C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.API\bin\Debug\net6.0\Azure.Core.dll
 C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.API\bin\Debug\net6.0\Azure.Identity.dll
 C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.API\bin\Debug\net6.0\Humanizer.dll
@@ -161,6 +163,7 @@ C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.API\bin\Debug\net6.0\NLayer.Se
 C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.API\bin\Debug\net6.0\NLayer.Service.pdb
 C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.API\bin\Debug\net6.0\NLayer.Core.pdb
 C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.API\bin\Debug\net6.0\NLayer.Respository.pdb
+C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.API\obj\Debug\net6.0\NLayer.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.API\obj\Debug\net6.0\staticwebassets\msbuild.NLayer.API.Microsoft.AspNetCore.StaticWebAssets.props
 C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.API\obj\Debug\net6.0\staticwebassets\msbuild.build.NLayer.API.props
 C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NLayer.API.props
@@ -175,4 +178,6 @@ C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.API\obj\Debug\net6.0\refint\NL
 C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.API\obj\Debug\net6.0\NLayer.API.pdb
 C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.API\obj\Debug\net6.0\NLayer.API.genruntimeconfig.cache
 C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.API\obj\Debug\net6.0\ref\NLayer.API.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.API\obj\Debug\net6.0\NLayer.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.API\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.API\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.API\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll

@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using NLayer.Core;
 using NLayer.Core.Repositories;
 using NLayer.Core.Services;
 using NLayer.Core.UnitOfWorks;
@@ -15,6 +16,14 @@ namespace NLayer.Service.Service
     {
         private readonly IGenericRepository<T> _genericRepository;
         private readonly IUnitOfWork _unitOfWork;
+        private IGenericRepository<Product> repository;
+        private IUnitOfWork unitOfWork;
+
+        public Service(IGenericRepository<Product> repository, IUnitOfWork unitOfWork)
+        {
+            this.repository = repository;
+            this.unitOfWork = unitOfWork;
+        }
 
         Service(IGenericRepository<T> genericRepository, IUnitOfWork unitOfWork)
         {

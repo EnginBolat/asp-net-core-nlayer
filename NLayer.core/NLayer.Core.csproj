@@ -12,8 +12,6 @@
     <None Remove="UnitOfWorks\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Repositories\" />
-    <Folder Include="Services\" />
     <Folder Include="UnitOfWorks\" />
   </ItemGroup>
 </Project>
