@@ -83,94 +83,185 @@
 /Users/enginbolat/Desktop/development/lessons/asp-net-core-ogreniyorum/NLayerProject/NLayer.Web/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
 /Users/enginbolat/Desktop/development/lessons/asp-net-core-ogreniyorum/NLayerProject/NLayer.Web/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
 /Users/enginbolat/Desktop/development/lessons/asp-net-core-ogreniyorum/NLayerProject/NLayer.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\obj\Debug\net6.0\NLayer.Web.csproj.AssemblyReference.cache
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\obj\Debug\net6.0\NLayer.Web.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\obj\Debug\net6.0\NLayer.Web.AssemblyInfoInputs.cache
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\obj\Debug\net6.0\NLayer.Web.AssemblyInfo.cs
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\obj\Debug\net6.0\NLayer.Web.csproj.CoreCompileInputs.cache
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\obj\Debug\net6.0\NLayer.Web.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\obj\Debug\net6.0\NLayer.Web.RazorAssemblyInfo.cache
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\obj\Debug\net6.0\NLayer.Web.RazorAssemblyInfo.cs
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\appsettings.json
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\NLayer.Web.staticwebassets.runtime.json
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\NLayer.Web.exe
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\NLayer.Web.deps.json
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\NLayer.Web.runtimeconfig.json
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\NLayer.Web.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\NLayer.Web.pdb
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\AutoMapper.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Azure.Core.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Azure.Identity.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Microsoft.Identity.Client.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\System.Drawing.Common.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\System.Memory.Data.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\System.Runtime.Caching.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\System.Security.Permissions.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\System.Windows.Extensions.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\NLayer.Core.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\NLayer.Respository.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\NLayer.Service.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\NLayer.Service.pdb
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\NLayer.Core.pdb
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\NLayer.Respository.pdb
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\obj\Debug\net6.0\staticwebassets\msbuild.NLayer.Web.Microsoft.AspNetCore.StaticWebAssets.props
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\obj\Debug\net6.0\staticwebassets\msbuild.build.NLayer.Web.props
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NLayer.Web.props
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NLayer.Web.props
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\obj\Debug\net6.0\staticwebassets.pack.json
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\obj\Debug\net6.0\scopedcss\bundle\NLayer.Web.styles.css
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\obj\Debug\net6.0\scopedcss\projectbundle\NLayer.Web.bundle.scp.css
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\obj\Debug\net6.0\NLayer.Web.csproj.CopyComplete
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\obj\Debug\net6.0\NLayer.Web.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\obj\Debug\net6.0\refint\NLayer.Web.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\obj\Debug\net6.0\NLayer.Web.pdb
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\obj\Debug\net6.0\NLayer.Web.genruntimeconfig.cache
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\obj\Debug\net6.0\ref\NLayer.Web.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\FluentValidation.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Web\obj\Debug\net6.0\NLayer.Web.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/obj/Debug/net6.0/NLayer.Web.csproj.AssemblyReference.cache
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/obj/Debug/net6.0/NLayer.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/obj/Debug/net6.0/NLayer.Web.AssemblyInfoInputs.cache
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/obj/Debug/net6.0/NLayer.Web.AssemblyInfo.cs
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/obj/Debug/net6.0/NLayer.Web.csproj.CoreCompileInputs.cache
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/obj/Debug/net6.0/NLayer.Web.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/obj/Debug/net6.0/NLayer.Web.RazorAssemblyInfo.cache
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/obj/Debug/net6.0/NLayer.Web.RazorAssemblyInfo.cs
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/appsettings.json
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/NLayer.Web.staticwebassets.runtime.json
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/NLayer.Web.exe
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/NLayer.Web.deps.json
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/NLayer.Web.runtimeconfig.json
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/NLayer.Web.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/NLayer.Web.pdb
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/AutoMapper.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Azure.Core.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Azure.Identity.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/System.Memory.Data.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/NLayer.Core.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/NLayer.Respository.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/NLayer.Service.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/NLayer.Service.pdb
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/NLayer.Core.pdb
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/NLayer.Respository.pdb
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/obj/Debug/net6.0/staticwebassets/msbuild.NLayer.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/obj/Debug/net6.0/staticwebassets/msbuild.build.NLayer.Web.props
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.NLayer.Web.props
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.NLayer.Web.props
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/obj/Debug/net6.0/scopedcss/bundle/NLayer.Web.styles.css
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/obj/Debug/net6.0/scopedcss/projectbundle/NLayer.Web.bundle.scp.css
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/obj/Debug/net6.0/NLayer.Web.csproj.CopyComplete
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/obj/Debug/net6.0/NLayer.Web.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/obj/Debug/net6.0/refint/NLayer.Web.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/obj/Debug/net6.0/NLayer.Web.pdb
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/obj/Debug/net6.0/NLayer.Web.genruntimeconfig.cache
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/obj/Debug/net6.0/ref/NLayer.Web.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/FluentValidation.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/FluentValidation.AspNetCore.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/bin/Debug/net6.0/FluentValidation.DependencyInjectionExtensions.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Web/obj/Debug/net6.0/NLayer.Web.MvcApplicationPartsAssemblyInfo.cs
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/appsettings.Development.json
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/appsettings.json
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/NLayer.Web.staticwebassets.runtime.json
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/NLayer.Web
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/NLayer.Web.deps.json
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/NLayer.Web.runtimeconfig.json
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/NLayer.Web.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/NLayer.Web.pdb
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/AutoMapper.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Azure.Core.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Azure.Identity.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/FluentValidation.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/FluentValidation.AspNetCore.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/FluentValidation.DependencyInjectionExtensions.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/NLayer.Core.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/NLayer.Respository.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/NLayer.Service.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/NLayer.Service.pdb
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/NLayer.Core.pdb
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/bin/Debug/net6.0/NLayer.Respository.pdb
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/obj/Debug/net6.0/NLayer.Web.csproj.AssemblyReference.cache
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/obj/Debug/net6.0/NLayer.Web.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/obj/Debug/net6.0/NLayer.Web.AssemblyInfoInputs.cache
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/obj/Debug/net6.0/NLayer.Web.AssemblyInfo.cs
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/obj/Debug/net6.0/NLayer.Web.csproj.CoreCompileInputs.cache
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/obj/Debug/net6.0/NLayer.Web.MvcApplicationPartsAssemblyInfo.cs
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/obj/Debug/net6.0/NLayer.Web.MvcApplicationPartsAssemblyInfo.cache
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/obj/Debug/net6.0/NLayer.Web.RazorAssemblyInfo.cache
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/obj/Debug/net6.0/NLayer.Web.RazorAssemblyInfo.cs
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/obj/Debug/net6.0/staticwebassets/msbuild.NLayer.Web.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/obj/Debug/net6.0/staticwebassets/msbuild.build.NLayer.Web.props
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.NLayer.Web.props
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.NLayer.Web.props
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/obj/Debug/net6.0/staticwebassets.build.json
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/obj/Debug/net6.0/staticwebassets.development.json
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/obj/Debug/net6.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/obj/Debug/net6.0/scopedcss/bundle/NLayer.Web.styles.css
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/obj/Debug/net6.0/scopedcss/projectbundle/NLayer.Web.bundle.scp.css
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/obj/Debug/net6.0/NLayer.Web.csproj.CopyComplete
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/obj/Debug/net6.0/NLayer.Web.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/obj/Debug/net6.0/refint/NLayer.Web.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/obj/Debug/net6.0/NLayer.Web.pdb
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/obj/Debug/net6.0/NLayer.Web.genruntimeconfig.cache
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Web/obj/Debug/net6.0/ref/NLayer.Web.dll

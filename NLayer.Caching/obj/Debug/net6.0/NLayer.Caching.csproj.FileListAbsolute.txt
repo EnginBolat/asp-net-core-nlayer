@@ -10,15 +10,34 @@
 /Users/enginbolat/Desktop/development/lessons/asp-net-core-ogreniyorum/NLayerProject/NLayer.Caching/obj/Debug/net6.0/refint/NLayer.Caching.dll
 /Users/enginbolat/Desktop/development/lessons/asp-net-core-ogreniyorum/NLayerProject/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.pdb
 /Users/enginbolat/Desktop/development/lessons/asp-net-core-ogreniyorum/NLayerProject/NLayer.Caching/obj/Debug/net6.0/ref/NLayer.Caching.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.deps.json
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Caching\bin\Debug\net6.0\NLayer.Caching.pdb
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.csproj.AssemblyReference.cache
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.AssemblyInfoInputs.cache
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.AssemblyInfo.cs
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.csproj.CoreCompileInputs.cache
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Caching\obj\Debug\net6.0\refint\NLayer.Caching.dll
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Caching\obj\Debug\net6.0\NLayer.Caching.pdb
-C:\Users\Engin Bolat\Desktop\NLayerProject\NLayer.Caching\obj\Debug\net6.0\ref\NLayer.Caching.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Caching/bin/Debug/net6.0/NLayer.Caching.deps.json
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Caching/bin/Debug/net6.0/NLayer.Caching.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Caching/bin/Debug/net6.0/NLayer.Caching.pdb
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.csproj.AssemblyReference.cache
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.AssemblyInfoInputs.cache
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.AssemblyInfo.cs
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.csproj.CoreCompileInputs.cache
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Caching/obj/Debug/net6.0/refint/NLayer.Caching.dll
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.pdb
+C:/Users/Engin Bolat/Desktop/NLayerProject/NLayer.Caching/obj/Debug/net6.0/ref/NLayer.Caching.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Caching/bin/Debug/net6.0/NLayer.Caching.deps.json
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Caching/bin/Debug/net6.0/NLayer.Caching.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Caching/bin/Debug/net6.0/NLayer.Caching.pdb
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.csproj.AssemblyReference.cache
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.GeneratedMSBuildEditorConfig.editorconfig
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.AssemblyInfoInputs.cache
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.AssemblyInfo.cs
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.csproj.CoreCompileInputs.cache
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Caching/obj/Debug/net6.0/refint/NLayer.Caching.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.pdb
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Caching/obj/Debug/net6.0/ref/NLayer.Caching.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Caching/bin/Debug/net6.0/NLayer.Core.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Caching/bin/Debug/net6.0/NLayer.Respository.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Caching/bin/Debug/net6.0/NLayer.Service.dll
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Caching/bin/Debug/net6.0/NLayer.Service.pdb
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Caching/bin/Debug/net6.0/NLayer.Core.pdb
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Caching/bin/Debug/net6.0/NLayer.Respository.pdb
+/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Caching/obj/Debug/net6.0/NLayer.Caching.csproj.CopyComplete

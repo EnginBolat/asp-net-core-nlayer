@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "H3IkNNPPlQI9APAxLYE3FvAzReA1qC1FJNqWNUPWytC2kGZDYyK8+zQYaGa6I6t95AnUcATdUNApPyTgCwE1eQ==",
+  "dgSpecHash": "PD5o4KKVpaI/WCUK0mSX3lujEOBuOGN3jMg84yEYl29r04Ywas+ASniV5CJOiB+x3VDzFtATCjAR+xHhTbkJDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Engin Bolat\\Desktop\\NLayerProject\\NLayer.Core\\NLayer.Core.csproj",
+  "projectFilePath": "/Users/enginbolat/Desktop/development/projects/AspCore/asp-net-core-nlayer/NLayer.Core/NLayer.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
